@@ -1,3 +1,5 @@
+# Small Script to Map my Strava routes
+
 options(stringsAsFactors = F)
 
 rm(list=ls())
