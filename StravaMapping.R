@@ -1,5 +1,10 @@
 # Small Script to Map my Strava routes
 
+# To do: Keep Credentials Secret. Token to be stored in YAML file
+# Add this to RMD file
+# Make Latitude and Longitude Selectable
+# add Credits from source author
+
 options(stringsAsFactors = F)
 
 rm(list=ls())
